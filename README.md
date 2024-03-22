@@ -14,6 +14,6 @@ jd : 2222
 Transfering uses the username of the receiver's account
 
 
-## License
+## Credits
 
 I only wrote the Javascript file(s) for this project. Credits to [Jonas Schmedtmann](https://codingheroes.io/)
